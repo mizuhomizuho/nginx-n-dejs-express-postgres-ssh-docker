@@ -1,0 +1,9 @@
+.idea
+
+**/.DS_Store
+
+/backend/node_modules
+
+backend/src/config/install.conf
+backend/src/config/supervisord.log
+backend/src/config/supervisord.pid
